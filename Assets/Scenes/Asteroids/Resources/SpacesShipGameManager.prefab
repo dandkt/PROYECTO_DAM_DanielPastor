@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1525131625205883842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1525131625205883845}
+  - component: {fileID: 1525131625205883844}
+  m_Layer: 0
+  m_Name: SpacesShipGameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1525131625205883845
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1525131625205883842}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.1, y: -8.476016, z: -67.4728}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1525131625205883844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1525131625205883842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dec93d9bb953fd4d815d663495692de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  model1Red: {fileID: 7332912740022619286, guid: 6b29de35a499c704a8fd3ecc826a40ae,
+    type: 3}
+  model1Grey: {fileID: 1922911858079438099, guid: cf0724f4e6a1d4a44b1efbd08b054f2a,
+    type: 3}
+  model2Red: {fileID: 4141589879855523548, guid: 0e900e48fb540ba42b6bd0a682b537af,
+    type: 3}
+  model2Grey: {fileID: 5127382227908765122, guid: b36af264055194a4da221c928bbba3e1,
+    type: 3}
+  model3Red: {fileID: 9166833917112153733, guid: 512cddb886996d34790cfe43a8893178,
+    type: 3}
+  model3Grey: {fileID: 5819653512809212416, guid: 66412dc94cb9433499a4adec3fceba87,
+    type: 3}
+  model4Red: {fileID: 5099039295325564346, guid: 4e7e096033a7acb4f9521b852122a9ce,
+    type: 3}
+  model4Grey: {fileID: 5799295853237133035, guid: fb2b9d8d00c75e3428078e68b8702822,
+    type: 3}

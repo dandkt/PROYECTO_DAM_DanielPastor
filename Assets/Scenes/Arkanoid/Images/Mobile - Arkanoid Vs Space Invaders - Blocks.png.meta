@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: 6c78f47860dbc2e4a9699b76cff649e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5535518167098115370
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_0
+  - first:
+      213: 4488791020530836874
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_1
+  - first:
+      213: -7266127936974721446
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_2
+  - first:
+      213: 4738554229731046312
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_3
+  - first:
+      213: -1830590844172416331
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_4
+  - first:
+      213: 6206918832215892824
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_5
+  - first:
+      213: 6997583478768013015
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_6
+  - first:
+      213: 4629951486056757047
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_7
+  - first:
+      213: 8405874755669400697
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_8
+  - first:
+      213: 3026280445452175291
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_9
+  - first:
+      213: 6666087944338799320
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_10
+  - first:
+      213: 5909082644933064313
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_11
+  - first:
+      213: 4347452033329232186
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_12
+  - first:
+      213: 1181936988723896169
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_13
+  - first:
+      213: 4769067120753221218
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_14
+  - first:
+      213: -8963613621970428022
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_15
+  - first:
+      213: 4377882548667780225
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_16
+  - first:
+      213: 8176839072226661246
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_17
+  - first:
+      213: 6196769158125596455
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_18
+  - first:
+      213: -6571866690819658511
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_19
+  - first:
+      213: 7417211067059633993
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_20
+  - first:
+      213: 6559948854632306312
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_21
+  - first:
+      213: -998577280453201806
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_22
+  - first:
+      213: 2564143510777206082
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_23
+  - first:
+      213: -2834059287553240137
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_24
+  - first:
+      213: 1952104655738788249
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_25
+  - first:
+      213: 1514036685721598257
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_26
+  - first:
+      213: -8628672641255115686
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_27
+  - first:
+      213: 8290854476193839371
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_28
+  - first:
+      213: -5427818816881588150
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_29
+  - first:
+      213: 6813660649360135158
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_30
+  - first:
+      213: -8114068491692142961
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_31
+  - first:
+      213: -221049953842009122
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_32
+  - first:
+      213: -8678644896257830226
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_33
+  - first:
+      213: 4955891573527533685
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_34
+  - first:
+      213: -3179790847357687988
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_35
+  - first:
+      213: 3543976970309490501
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_36
+  - first:
+      213: 7661414850278333057
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_37
+  - first:
+      213: 5991024142212156433
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_38
+  - first:
+      213: 5914727968845173879
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_39
+  - first:
+      213: 1115016824248720826
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_40
+  - first:
+      213: -8644774779267394359
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_41
+  - first:
+      213: 8091226744552014820
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_42
+  - first:
+      213: 3013731299821181960
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_43
+  - first:
+      213: -6245961109394746801
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_44
+  - first:
+      213: -3821027602868793147
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_45
+  - first:
+      213: 8076898655495136120
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_46
+  - first:
+      213: -8418157520601176325
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_47
+  - first:
+      213: -895316672715509137
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_48
+  - first:
+      213: -6359381196888666796
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_49
+  - first:
+      213: 4648701271620260711
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_50
+  - first:
+      213: -3302348174314484372
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_51
+  - first:
+      213: -6451255846212456460
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_52
+  - first:
+      213: 2816136055941714458
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_53
+  - first:
+      213: 935802843027447275
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_54
+  - first:
+      213: 9207213210243873925
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_55
+  - first:
+      213: -7858262041010857288
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_56
+  - first:
+      213: 8740800715454835717
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_57
+  - first:
+      213: 8570960693042966505
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_58
+  - first:
+      213: -5157293119175436761
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_59
+  - first:
+      213: -7434248625160836973
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_60
+  - first:
+      213: -8626864580029325432
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_61
+  - first:
+      213: -5230988911845585008
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_62
+  - first:
+      213: 175367993531766689
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_63
+  - first:
+      213: -4910226582101676702
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_64
+  - first:
+      213: -3163985417679526134
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_65
+  - first:
+      213: -6840428735885741187
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_66
+  - first:
+      213: 516639460066712817
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_67
+  - first:
+      213: -3562709348600039798
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_68
+  - first:
+      213: -3034326974990380985
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_69
+  - first:
+      213: 9062840826442954377
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_70
+  - first:
+      213: -2188747432077540747
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_71
+  - first:
+      213: 4723310407168983722
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_72
+  - first:
+      213: 7783275163975605452
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_73
+  - first:
+      213: -5536935449705408350
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_74
+  - first:
+      213: -7365751119207964303
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_75
+  - first:
+      213: -5093044513559185923
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_76
+  - first:
+      213: -1322983809033259116
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_77
+  - first:
+      213: 6054760653747054932
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_78
+  - first:
+      213: -337097634748280922
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_79
+  - first:
+      213: 3783660905923461944
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_80
+  - first:
+      213: -5286750880497829732
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_81
+  - first:
+      213: 6265318977790325973
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_82
+  - first:
+      213: -3077729529065815464
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_83
+  - first:
+      213: -7637258898081541176
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_84
+  - first:
+      213: 2481066294358353497
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_85
+  - first:
+      213: -5882903049418363401
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_86
+  - first:
+      213: 338150648990974782
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_87
+  - first:
+      213: -6447435335427513627
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_88
+  - first:
+      213: 7434392839345129350
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_89
+  - first:
+      213: -3100570805903014624
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_90
+  - first:
+      213: -6637556142643829628
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_91
+  - first:
+      213: -2487583801330175583
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_92
+  - first:
+      213: -356284179950683534
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_93
+  - first:
+      213: 443682075615343695
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_94
+  - first:
+      213: 5999817329141735173
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_95
+  - first:
+      213: 5114213986437190970
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_96
+  - first:
+      213: 7402826008460539847
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_97
+  - first:
+      213: 1723575209214772880
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_98
+  - first:
+      213: -1643799105771293829
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_99
+  - first:
+      213: -5771186811416185716
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_100
+  - first:
+      213: 8534960079405204366
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_101
+  - first:
+      213: -5224111552656188078
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_102
+  - first:
+      213: -6067913551534325472
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_103
+  - first:
+      213: -6421392176911785591
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_104
+  - first:
+      213: -7423432325248272912
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_105
+  - first:
+      213: -3676722466055959869
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_106
+  - first:
+      213: 5321952324337494339
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_107
+  - first:
+      213: 3097966724702814452
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_108
+  - first:
+      213: -3760077976270591295
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_109
+  - first:
+      213: 4728250328028443576
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_110
+  - first:
+      213: 7604399212441357782
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_111
+  - first:
+      213: -4368791845231354434
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_112
+  - first:
+      213: 3237621016596077877
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_113
+  - first:
+      213: -5531055909865301429
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_114
+  - first:
+      213: 7134185130647131594
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_115
+  - first:
+      213: -1156311860641324781
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_116
+  - first:
+      213: -536778095906480367
+    second: Mobile - Arkanoid Vs Space Invaders - Blocks_117
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 366
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ca9dc17c12dc40800000000000000
+      internalID: 5535518167098115370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 366
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8524b986a36b4e30800000000000000
+      internalID: 4488791020530836874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 366
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e64109327892b90800000000000000
+      internalID: -7266127936974721446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 366
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a33b0c47f9b2c140800000000000000
+      internalID: 4738554229731046312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 366
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba450c735f6896e0800000000000000
+      internalID: -1830590844172416331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 366
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85329efcac7632650800000000000000
+      internalID: 6206918832215892824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 318
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0c1269196c1160800000000000000
+      internalID: 6997583478768013015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 318
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73774b59854e04040800000000000000
+      internalID: 4629951486056757047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 318
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1916dd8aa7a470800000000000000
+      internalID: 8405874755669400697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 318
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb743edf7028ff920800000000000000
+      internalID: 3026280445452175291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 318
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf3dbbaa3b28c50800000000000000
+      internalID: 6666087944338799320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 318
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97639af9b57410250800000000000000
+      internalID: 5909082644933064313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 270
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3973ac2790455c30800000000000000
+      internalID: 4347452033329232186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 270
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f58c7dd65176010800000000000000
+      internalID: 1181936988723896169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 270
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e9d7a57412f2240800000000000000
+      internalID: 4769067120753221218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 270
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f999ee6e8da9380800000000000000
+      internalID: -8963613621970428022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 270
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c89b5abfc51cc30800000000000000
+      internalID: 4377882548667780225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 270
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73da9d30d7f97170800000000000000
+      internalID: 8176839072226661246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 222
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2c29a7b85ff550800000000000000
+      internalID: 6196769158125596455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 222
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fce87e501a0cc4a0800000000000000
+      internalID: -6571866690819658511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f7f2cda2a3fe660800000000000000
+      internalID: 7417211067059633993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 222
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d6192abe990b50800000000000000
+      internalID: 6559948854632306312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 222
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270bfcd01475422f0800000000000000
+      internalID: -998577280453201806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 222
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459ff800faa59320800000000000000
+      internalID: 2564143510777206082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 174
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b31efce7166ba8d0800000000000000
+      internalID: -2834059287553240137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 174
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99952b977d4471b10800000000000000
+      internalID: 1952104655738788249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 174
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139785d0850f20510800000000000000
+      internalID: 1514036685721598257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 174
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547bde03fbc04880800000000000000
+      internalID: -8628672641255115686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 174
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09bdf128380f0370800000000000000
+      internalID: 8290854476193839371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 174
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48879a3b838ca4b0800000000000000
+      internalID: -5427818816881588150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31b21a24cfe8e50800000000000000
+      internalID: 6813660649360135158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 126
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e008d62b9056f80800000000000000
+      internalID: -8114068491692142961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 126
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb61a7fc3caeecf0800000000000000
+      internalID: -221049953842009122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 126
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea29bc2c2724f8780800000000000000
+      internalID: -8678644896257830226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 126
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d571f02dd6c440800000000000000
+      internalID: 4955891573527533685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 126
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e433521d1fd3d0800000000000000
+      internalID: -3179790847357687988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5475677174cbe2130800000000000000
+      internalID: 3543976970309490501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 78
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a1eb3e630d25a60800000000000000
+      internalID: 7661414850278333057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c485d27b4642350800000000000000
+      internalID: 5991024142212156433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 78
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774951600c5551250800000000000000
+      internalID: 5914727968845173879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_40
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 78
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdddefd4e5597f00800000000000000
+      internalID: 1115016824248720826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 78
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d286e327970880800000000000000
+      internalID: -8644774779267394359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 30
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c922eadfc94070800000000000000
+      internalID: 8091226744552014820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c515656ace2d920800000000000000
+      internalID: 3013731299821181960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 30
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421f99a673e159a0800000000000000
+      internalID: -6245961109394746801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_45
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c01b0ec3abf8fac0800000000000000
+      internalID: -3821027602868793147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732e9fa888e61070800000000000000
+      internalID: 8076898655495136120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a8491652bc2b80800000000000000
+      internalID: -8418157520601176325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62be41da323393f0800000000000000
+      internalID: -895316672715509137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0720be70feb7a0800000000000000
+      internalID: -6359381196888666796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76315d93d21838040800000000000000
+      internalID: 4648701271620260711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d435105d3bb22d0800000000000000
+      internalID: -3302348174314484372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2853fcf88876a0800000000000000
+      internalID: -6451255846212456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12539582dce41720800000000000000
+      internalID: 2816136055941714458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed93764ab3acfc00800000000000000
+      internalID: 935802843027447275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbedff1a796cf70800000000000000
+      internalID: 9207213210243873925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba9c9dfe48d1f290800000000000000
+      internalID: -7858262041010857288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6a21a0ff8d4970800000000000000
+      internalID: 8740800715454835717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_58
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef69a4e65b22f670800000000000000
+      internalID: 8570960693042966505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7265bfc8b3d9d68b0800000000000000
+      internalID: -5157293119175436761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982a55834e34d890800000000000000
+      internalID: -7434248625160836973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_61
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd3fd1f58374880800000000000000
+      internalID: -8626864580029325432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_62
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fcf65bc4bc767b0800000000000000
+      internalID: -5230988911845585008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_63
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71f6fc2480f6200800000000000000
+      internalID: 175367993531766689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d262760fe5bdbb0800000000000000
+      internalID: -4910226582101676702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0722b0b6044714d0800000000000000
+      internalID: -3163985417679526134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f72e8e4ae111a0800000000000000
+      internalID: -6840428735885741187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd9360ad87b2700800000000000000
+      internalID: 516639460066712817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_68
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863bb639b6be8ec0800000000000000
+      internalID: -3562709348600039798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_69
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 30
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740105b51b7e3e5d0800000000000000
+      internalID: -3034326974990380985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_70
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9863a04f6bda5cd70800000000000000
+      internalID: 9062840826442954377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_71
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57248f79ec100a1e0800000000000000
+      internalID: -2188747432077540747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_72
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 17
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa286374ac19c8140800000000000000
+      internalID: 4723310407168983722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd2e9268fb30c60800000000000000
+      internalID: 7783275163975605452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89a006b8ad823b0800000000000000
+      internalID: -5536935449705408350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1716cabe16897c990800000000000000
+      internalID: -7365751119207964303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_76
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57d00cffed159b0800000000000000
+      internalID: -5093044513559185923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497baf23c31d3ade0800000000000000
+      internalID: -1322983809033259116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_78
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ea9e2cb4d60450800000000000000
+      internalID: 6054760653747054932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_79
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af443abc73625bf0800000000000000
+      internalID: -337097634748280922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_80
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 30
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c9181c83428430800000000000000
+      internalID: 3783660905923461944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_81
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9871f7a510b1a6b0800000000000000
+      internalID: -5286750880497829732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b4bb4a62e2f650800000000000000
+      internalID: 6265318977790325973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_83
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8524d41cc45b945d0800000000000000
+      internalID: -3077729529065815464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_84
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c398220f71030690800000000000000
+      internalID: -7637258898081541176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ac6346a48e6220800000000000000
+      internalID: 2481066294358353497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_86
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 17
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd2b5378dabb5ea0800000000000000
+      internalID: -5882903049418363401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_87
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33cca1493a51b400800000000000000
+      internalID: 338150648990974782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2aa8fe8bb1686a0800000000000000
+      internalID: -6447435335427513627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_89
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 17
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687cfd5f5e44c2760800000000000000
+      internalID: 7434392839345129350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_90
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 17
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254431974f88f4d0800000000000000
+      internalID: -3100570805903014624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_91
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a0050bd9a2e3a0800000000000000
+      internalID: -6637556142643829628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1f2b466b35a7dd0800000000000000
+      internalID: -2487583801330175583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_93
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab2fe0d693e0bf0800000000000000
+      internalID: -356284179950683534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_94
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44b24e3f76482600800000000000000
+      internalID: 443682075615343695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd9bc8212a34350800000000000000
+      internalID: 5999817329141735173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_96
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355cee368659f640800000000000000
+      internalID: 5114213986437190970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_97
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73058680f1cb660800000000000000
+      internalID: 7402826008460539847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_98
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0968ae8558e5be710800000000000000
+      internalID: 1723575209214772880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b56a2c6d0039e0800000000000000
+      internalID: -1643799105771293829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847e1d0c20a8efa0800000000000000
+      internalID: -5771186811416185716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_101
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834619d8f4427670800000000000000
+      internalID: 8534960079405204366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_102
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd9eca83a3087b0800000000000000
+      internalID: -5224111552656188078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_103
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021840926c07acba0800000000000000
+      internalID: -6067913551534325472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_104
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98163bb46d1a2e6a0800000000000000
+      internalID: -6421392176911785591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_105
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5bc6791abaaf890800000000000000
+      internalID: -7423432325248272912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_106
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca4901b568a9fcc0800000000000000
+      internalID: -3676722466055959869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_107
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34963bb217f5bd940800000000000000
+      internalID: 5321952324337494339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f044e782503efa20800000000000000
+      internalID: 3097966724702814452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_109
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2f98900581dbc0800000000000000
+      internalID: -3760077976270591295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3724b3f9e1e9140800000000000000
+      internalID: 4728250328028443576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_111
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc3db3bc0488960800000000000000
+      internalID: 7604399212441357782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_112
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9c5fa6feee53c0800000000000000
+      internalID: -4368791845231354434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_113
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5c8339275eec20800000000000000
+      internalID: 3237621016596077877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_114
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a57ab64fdbd33b0800000000000000
+      internalID: -5531055909865301429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_115
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5981ae397b10360800000000000000
+      internalID: 7134185130647131594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_116
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31127e83d74f3ffe0800000000000000
+      internalID: -1156311860641324781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Arkanoid Vs Space Invaders - Blocks_117
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f984e6a2bfc88f0800000000000000
+      internalID: -536778095906480367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fdbf0e9684e95364ca7479565b758cbd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
