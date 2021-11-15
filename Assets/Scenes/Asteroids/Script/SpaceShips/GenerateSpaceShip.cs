@@ -35,7 +35,6 @@ public class GenerateSpaceShip : MonoBehaviour
      if(gameManagerFind.activeInHierarchy){ 
        if(myPlayerObject != null){
            var xPosition = Random.Range(-29.9f,-10.3f);
-           //var xPosition = Random.Range(-29.9f,20.3f);
            
            var YPosition = Random.Range(32.2f,20.6f);
             if(isRed){ 

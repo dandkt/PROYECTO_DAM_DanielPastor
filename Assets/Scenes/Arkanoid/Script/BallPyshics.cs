@@ -8,7 +8,7 @@ public class BallPyshics : MonoBehaviour
 {
     public int puntos;
     public Text puntuacion;
-    public float speed = 118.0f;
+    public float speed = 148.0f;
     public GameObject live1;
     public GameObject live2;
     public GameObject live3;
@@ -27,7 +27,6 @@ public class BallPyshics : MonoBehaviour
     private int counterBall = 0;
     
 
-    // Start is called before the first frame update
     void Start()
     {
         GetComponent<Rigidbody2D>().velocity = Vector2.up * speed;
@@ -41,8 +40,9 @@ public class BallPyshics : MonoBehaviour
     }
 
     void aumentarVelocidad(){
-            speed = speed + 20.0f;
+        speed = speed + 20.0f;
     }
+
     float hitFactor(Vector2 posBola, Vector2 posRacket,float racketAncho){
         return (posBola.x - posRacket.x) / racketAncho;
     }

@@ -69,15 +69,9 @@ public class AsteroidLogic : MonoBehaviour
                 Random.Range(27.9f,12.6f), 4.7f),Quaternion.Euler(0,0,Random.Range(-0.0f, 359.0f))) as GameObject;
             }
             activeItem = Random.Range(1,5);
-           Instantiate(Resources.Load("heartItem"),new Vector3(asteroid.transform.position.x,asteroid.transform.position.y + 2.0f,asteroid.transform.position.z),Quaternion.Euler(0,0,0));    
-           /*activeItem = 3;
-           Debug.Log("ActiveItem: "+activeItem);
-           if(activeItem == 3){
-                Debug.Log("Creando corazon");
-                Instantiate(heartItem,new Vector3(asteroid.transform.position.x,asteroid.transform.position.y + 2.0f,asteroid.transform.position.z),Quaternion.identity);
-                Debug.Log(heartItem.transform.position);
-                Debug.Log("Corazón creado");
-           }*/
+           if(activeItem == 2 || activeItem == 5){
+                Instantiate(Resources.Load("heartItem"),new Vector3(asteroid.transform.position.x,asteroid.transform.position.y + 2.0f,asteroid.transform.position.z),Quaternion.Euler(0,0,0));    
+           }
         }else{
            
            Destroy(asteroid);

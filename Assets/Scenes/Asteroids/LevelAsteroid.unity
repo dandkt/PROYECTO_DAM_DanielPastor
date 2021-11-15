@@ -5307,17 +5307,17 @@ PrefabInstance:
     - target: {fileID: 5289070425522415861, guid: c1e0451fa78ecc541b90696c9efd0a4b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -68.33742
+      value: -68.4
       objectReference: {fileID: 0}
     - target: {fileID: 5289070425522415861, guid: c1e0451fa78ecc541b90696c9efd0a4b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -49.37941
+      value: -52.1
       objectReference: {fileID: 0}
     - target: {fileID: 5289070425522415861, guid: c1e0451fa78ecc541b90696c9efd0a4b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 322.51697
+      value: 322.7
       objectReference: {fileID: 0}
     - target: {fileID: 5289070425522415861, guid: c1e0451fa78ecc541b90696c9efd0a4b,
         type: 3}
@@ -5358,6 +5358,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SpacePlayer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5289070426286558080, guid: c1e0451fa78ecc541b90696c9efd0a4b,
+        type: 3}
+      propertyPath: m_Mass
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 5289070426286558081, guid: c1e0451fa78ecc541b90696c9efd0a4b,
         type: 3}

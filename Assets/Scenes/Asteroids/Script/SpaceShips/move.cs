@@ -6,6 +6,10 @@ public class move : MonoBehaviour
 {
     private float _limitScreenMaxX = 73f;
     private float _limitScreenMinX = -48.7f;
+
+    private float _limiScreenMinY = -43.6f;
+    private float _limitScreenMaxY = 36.1f;
+
     private float microSpeed = 5f;
 
     private int liveModel1= 1;
@@ -32,6 +36,13 @@ public class move : MonoBehaviour
         }
         if(transform.position.x < _limitScreenMinX){
                 transform.position = new Vector3(_limitScreenMaxX, transform.position.y, 3.7f);
+        }
+
+        if(transform.position.y < _limiScreenMinY){
+            Destroy(this.gameObject);
+        }
+        if(transform.position.y > _limitScreenMaxY){
+            Destroy(this.gameObject);
         }
         transform.position += new Vector3(Time.deltaTime * microSpeed, 0, 0);
        
