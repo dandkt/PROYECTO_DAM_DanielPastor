@@ -8,7 +8,7 @@ public class BallPyshics : MonoBehaviour
 {
     public int puntos;
     public Text puntuacion;
-    public float speed = 148.0f;
+    public float speed = 248.0f;
     public GameObject live1;
     public GameObject live2;
     public GameObject live3;
@@ -98,7 +98,6 @@ public class BallPyshics : MonoBehaviour
                 Lives.SetActive(false);
                 Canvas1.SetActive(true);
                 win.Play();
-            //Debug.Log("You win");
         }
         
         

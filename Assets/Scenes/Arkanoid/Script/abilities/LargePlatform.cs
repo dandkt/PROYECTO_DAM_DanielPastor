@@ -10,7 +10,12 @@ public class LargePlatform : MonoBehaviour
     {
         racket = GameObject.Find("racket");
     }
-
+    private void FixedUpdate() {
+      if(!racket.activeInHierarchy){
+        Destroy(this.gameObject);
+      }
+    }
+    
     private void OnCollisionEnter2D(Collision2D col) {
         if(col.gameObject.name == "racket"){
             Debug.Log("COlision con racket");
