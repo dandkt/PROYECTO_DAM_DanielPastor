@@ -7,11 +7,12 @@ public class BallClones : MonoBehaviour
     
     public float speed = 250.0f;
     private int counter = 0;
+    private GameObject racket;
     
     void Start()
     {
         GetComponent<Rigidbody2D>().velocity = Vector2.up * speed;
-       
+        racket = GameObject.Find("racket");
         InvokeRepeating("aumentarVelocidad",6.0f,6.0f);
     }
 
@@ -20,6 +21,11 @@ public class BallClones : MonoBehaviour
     }
     float hitFactor(Vector2 posBola, Vector2 posRacket,float racketAncho){
         return (posBola.x - posRacket.x) / racketAncho;
+    }
+    private void FixedUpdate() {
+      if(!racket.activeInHierarchy){
+        Destroy(this.gameObject);
+      }
     }
      private void OnCollisionEnter2D(Collision2D col) {
             if(col.gameObject.name == "racket"){

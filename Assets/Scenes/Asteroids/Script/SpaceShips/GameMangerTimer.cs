@@ -126,6 +126,7 @@ private void FixedUpdate() {
             break;
             case float n when (n<0.0f):
                 SpacesShipGameManager.SetActive(false);
+                AsteroidGameManager.SetActive(false);
                 Debug.Log("Comenzar fase de conteo para el jefe final");
                 if(cTime >=0){
                    

@@ -12,6 +12,7 @@ public class cloneRacket : MonoBehaviour
     private void FixedUpdate() {
       if(!racket.activeInHierarchy){
         Destroy(this.gameObject);
+        Destroy(racket);
       }
   }
      private void OnCollisionEnter2D(Collision2D col) {
