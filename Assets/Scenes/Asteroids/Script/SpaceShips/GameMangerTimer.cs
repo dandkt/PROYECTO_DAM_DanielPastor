@@ -73,7 +73,7 @@ private void FixedUpdate() {
                 if(tiempo <=0){
                 //Debug.Log("Desactivar gameManager");
                 }else{
-                tiempo -= Time.deltaTime *1.5f;
+                tiempo -= Time.deltaTime *3.0f;
                 }
             }
         }
@@ -89,29 +89,17 @@ private void FixedUpdate() {
     }
 
     private void  defineFase(float myTimer){
-        /*
-            Fase 1: Asteroides con division de 1-2 pequeños
-            Aumento de velocidad de los asteroides y 
-            aumento de division a 3-4 pequeños.
-            Fase 2: Desactivar los asteroides y empezar a sacar las naves.
-            Fase 3: Combinar asteroides con las naves. 
-            Se tendrá que sincronizar y evaluar si vale la pena,
-            ya que si el jugador es listo puede usar las naves para
-            eliminar a los asteroides(en teoria).
-            Fase 4: desactivar la generación de los asteroides 
-            y las naves, activar animacion para que sea más natural.
-            Una vez limpiado seguir fase siguiente.
-        */
+        
         switch(myTimer){
             case float n when (n<=601.0f && n>=551.0f):
-               // Debug.Log("Fase 1");
+               
                 fase1();
             break;
             case float n when (n<=550.0f && n>=421.0f):
-               // clearAsteroids();
+              
                 AsteroidGameManager.SetActive(false);
                 SpacesShipGameManager.SetActive(true);
-                //Debug.Log("Fase 2");
+                
             break;
             case float n when (n<=420.0f && n>=0.0f):
                 AsteroidGameManager.SetActive(true);
@@ -127,7 +115,7 @@ private void FixedUpdate() {
             case float n when (n<0.0f):
                 SpacesShipGameManager.SetActive(false);
                 AsteroidGameManager.SetActive(false);
-                Debug.Log("Comenzar fase de conteo para el jefe final");
+               // Comenzar fase de conteo para el jefe final
                 if(cTime >=0){
                    
                     cTime -= Time.deltaTime;

@@ -59,7 +59,11 @@ public class LifePlayer : MonoBehaviour
                     vidaActual = vidaActual -150;
                     break;
               case "heartItem(Clone)":
-                    vidaActual = vidaActual +100;
+                    //no debe pasar del limite
+                    if(vidaActual < vidaMaxima){
+                        vidaActual = vidaActual +100;
+                    }
+                    
                     break;
          }
         //eliminacion de vidas y reaparicion del jugador

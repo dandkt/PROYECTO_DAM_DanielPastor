@@ -8,7 +8,7 @@ public class ImpulsoBalaEnemigo : MonoBehaviour
  void Update()
     {
        
-            transform.Translate(Vector3.down*30f*Time.deltaTime);
+            transform.Translate(new Vector3(0,-1,0)*30f*Time.deltaTime);
         
         if(transform.position.y <= -38.8f){
             Destroy(gameObject);

@@ -9,7 +9,7 @@ public class RacketMove : MonoBehaviour
     private float _limitScreenMaxX = 350.65f;
     
     private void Start() {
-        InvokeRepeating("aumentarVelocidad",6.0f,16.0f);
+        InvokeRepeating("aumentarVelocidad",6.0f,6.0f);
     }
 
     void aumentarVelocidad(){
